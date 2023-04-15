@@ -1,7 +1,7 @@
 ## SortListOfUkrainianWords
 Sort the list of Ukrainian words alphabetically
 ## 4. Java Advanced 1. Iterator & Comparator
-## Отсортировать список украинских слов по алфавиту.
+Отсортировать список украинских слов по алфавиту.
 
 ## Заметки
 
